@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(45deg,lightgreen,coral,lightgreen);
+    font-family:"comic sans MS",sans-serif;
+    text-align:center;
+}
+h{
+    font-family: castellar,sans-serif;
+    font-size: 40 px;
+}
+h2{
+    background: linear-gradient(45deg,red,black,red);
+    color: white;
+    padding: 15px;
+    border-radius: 50%;
+    width: 800px;
+    margin: auto;
+    box-shadow: 0 0 10px black;
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+}
